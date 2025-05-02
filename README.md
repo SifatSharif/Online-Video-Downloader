@@ -1,7 +1,8 @@
 # Online-Video-Downloader
 A simple yet powerful Python desktop application to download YouTube videos in high quality using a clean and intuitive Tkinter-based GUI. Just paste the video URL, choose your download location, and download any YouTube video in seconds.
 
-#🚀 Features
+
+# 🚀 Features
 
 ✅ Download videos from YouTube in the highest available resolution
 
@@ -22,7 +23,7 @@ pytubefix - YouTube video extraction
 moviepy - Video file handling
 
 
-#🧠 How It Works
+# 🧠 How It Works
 
 Paste a YouTube video URL into the input field.
 
