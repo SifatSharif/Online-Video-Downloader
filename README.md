@@ -33,3 +33,22 @@ Click "Download" – the video will be downloaded in its highest quality.
 
 A success pop-up will notify you once the download is complete.
 
+# Database Connection :
+
+🔧 Step 1: Install MySQL Connector
+
+🗃️ Step 2: Create MySQL Database and Table
+You can run these in your MySQL console or GUI (like phpMyAdmin or MySQL Workbench):
+data_base query :{ 
+CREATE DATABASE video_downloader;
+
+USE video_downloader;
+
+CREATE TABLE users (
+    username VARCHAR(50) PRIMARY KEY,
+    password VARCHAR(100) NOT NULL
+);
+
+}
+
+Need Xamp server always open
